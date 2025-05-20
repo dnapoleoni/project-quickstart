@@ -1,10 +1,27 @@
 {
-  "name": "vscode-vite-vue-tw-boilerplate",
-  "private": true,
+  "name": "project-quickstart",
+  "author": {
+    "name": "Daniel Napoleoni",
+    "url": "https://www.danielnapoleoni.dev"
+  },
+  "private": false,
   "version": "1.0.0",
+  "license": "MIT",
   "type": "module",
   "engines": {
     "node": ">=18"
+  },
+  "keywords": [
+    "vue",
+    "vite",
+    "tailwind",
+    "pinia",
+    "eslint",
+    "boilerplate"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dnapoleoni/project-quickstart.git"
   },
   "scripts": {
     "dev": "vite",
