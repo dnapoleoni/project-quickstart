@@ -10,8 +10,12 @@ A minimal, production-ready Vue 3 boilerplate setup with:
 - 🧹 [ESLint](https://eslint.org) for code
 - ✨ [Prettier](https://prettier.io) for formatting
 
-Mostly a no-TS, no-testing, prototype booster for my funny little ideas.\r
+Mostly a no-TS, no-testing, prototype booster for my funny little ideas.  
 Could be a great project foundation to build upon too I guess...
+
+---
+
+In future I'll work to attempt to bring ESLint up to v9, but it was being annoying so no promises.
 
 ---
 
