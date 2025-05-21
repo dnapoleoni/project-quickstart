@@ -1,11 +1,11 @@
 <template>
-	<Page :title>
+	<PageLayout :title>
 		<router-view />
-	</Page>
+	</PageLayout>
 </template>
 
 <script setup>
-	import Page from '@/components/layout/PageLayout.vue';
+	import PageLayout from '@/components/layout/PageLayout.vue';
 	import { useRoute } from 'vue-router';
 	import { computed } from 'vue';
 
